@@ -4,7 +4,7 @@ This repository contains the source code and supplementary materials for the pap
 
 ## 🌊 Particle Diffusion Visualization (Supplementary Material)
 
-Due to the static nature of PDF documents, the time-varying diffusion of particles is presented here. The animation below illustrates the cumulative behavior of shipwreck particles over a 48-hour period (LEEWWAY5 Scenario).
+Due to the static nature of PDF documents, the time-varying diffusion of particles is presented here. The animation below illustrates the cumulative behavior of shipwreck particles over a 48-hour period .
 
 ![Particle Diffusion Animation](particle_diffusion_48h_green.gif)
 
@@ -12,3 +12,4 @@ Due to the static nature of PDF documents, the time-varying diffusion of particl
 - **Red Star ($\star$)**: Initial Position (Last Known Position)
 - **Green Dots ($\bullet$)**: Drifting Particles (Sampled)
 - **Time Range**: 0h to 48h
+
